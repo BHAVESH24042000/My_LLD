@@ -1,0 +1,3 @@
+interface NotificationAlertObserver {
+    fun update()
+}
